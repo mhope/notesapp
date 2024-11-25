@@ -2,7 +2,7 @@
     "customizations": {
       "codespaces": {
         "repositories": {
-          "mhope/notesapp": {
+          "mhope/notesapp.git": {
             "permissions": {
               "issues": "write"
             }
